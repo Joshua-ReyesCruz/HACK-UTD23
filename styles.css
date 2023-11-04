@@ -1,0 +1,10 @@
+/* styles.css */
+
+.container {
+    width: 50%;
+    margin: 50px auto;
+}
+
+input[type="range"] {
+    width: 100%;
+}
